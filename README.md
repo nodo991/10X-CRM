@@ -3,7 +3,7 @@
 ### About
 10X CRM is a simplified customer relationship management tool for sales managers. A user can sign up, log in, track a client base end-to-end (add, delete, filter, search, sort, notes, follow-up reminders), see a live dashboard of their pipeline, and manage their own profile — all with data persisted in the browser via `localStorage`. Built as a vanilla JavaScript exam project — no frameworks, no libraries.
 
-### Features (CORE + FULL)
+### Features
 - **Sign Up** with 6 validation rules (name length, email format/uniqueness, password strength, password match), exact error messages, and a success toast before redirecting to Login.
 - **Login** with session persistence (reload-safe) and a generic "Invalid email or password" message on failure (never reveals which part was wrong).
 - **Auth Guard**: protected pages (`dashboard`, `clients`, `profile`) redirect to Login when logged out; public pages (`index`, `signup`) redirect to Dashboard when already logged in.
@@ -53,7 +53,7 @@
 ```
 
 ### Live Demo
-🌐[Custom domain:] https://nodo991-10x-crm.vercel.app/
+🌐 Domain:  https://nodo991-10x-crm.vercel.app/
 
 ### Suggested test values:
 
