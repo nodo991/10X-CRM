@@ -56,14 +56,15 @@
 🌐[Custom domain:] https://nodo991-10x-crm.vercel.app/
 
 ### Suggested test values:
-Email: test@test.com
-Password: test1234
+
+* Email: test@test.com  
+* Password: test1234
 
 ### Notes on the localStorage password (security)
 Storing plaintext passwords in `localStorage` is unacceptable in a real product — passwords belong on a server, hashed. This project does it only because it's a backend-free learning exercise.
 
 ### Credits
-Built by Nodari Kiknadze for the 10X-CRM exam project.
 AI tools were used for planning, code review, UI/UX discussion, debugging, and organizing documentation. However, the overall understanding, final project decisions, and exam explanations remain entirely my responsibility.
 
+Built by Nodari Kiknadze for the 10X-CRM exam project.
 
