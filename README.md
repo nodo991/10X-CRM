@@ -66,5 +66,6 @@ Storing plaintext passwords in `localStorage` is unacceptable in a real product 
 ### Credits
 AI tools were used for planning, code review, UI/UX discussion, debugging, and organizing documentation. However, the overall understanding, final project decisions, and exam explanations remain entirely my responsibility.
 
-Built by Nodari Kiknadze for the 10X-CRM exam project.
+Developed by Nodari Kiknadze for the "10X CRM" exam project.
+
 
